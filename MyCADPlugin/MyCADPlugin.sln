@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyCADPlugin", "MyCADPlugin\MyCADPlugin.vcxproj", "{AD6B96A7-8E63-463C-B13B-4A4A80C08F55}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PluginLine", "PluginLine\PluginLine.vcxproj", "{D3DE1762-0121-4A5A-899D-ABA6390BD6DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PluginRect", "PluginRect\PluginRect.vcxproj", "{4E51B8C1-4983-4090-8CAD-543B723DF4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6B96A7-8E63-463C-B13B-4A4A80C08F55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD6B96A7-8E63-463C-B13B-4A4A80C08F55}.Debug|Win32.Build.0 = Debug|Win32
+		{AD6B96A7-8E63-463C-B13B-4A4A80C08F55}.Release|Win32.ActiveCfg = Release|Win32
+		{AD6B96A7-8E63-463C-B13B-4A4A80C08F55}.Release|Win32.Build.0 = Release|Win32
+		{D3DE1762-0121-4A5A-899D-ABA6390BD6DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3DE1762-0121-4A5A-899D-ABA6390BD6DF}.Debug|Win32.Build.0 = Debug|Win32
+		{D3DE1762-0121-4A5A-899D-ABA6390BD6DF}.Release|Win32.ActiveCfg = Release|Win32
+		{D3DE1762-0121-4A5A-899D-ABA6390BD6DF}.Release|Win32.Build.0 = Release|Win32
+		{4E51B8C1-4983-4090-8CAD-543B723DF4C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E51B8C1-4983-4090-8CAD-543B723DF4C5}.Debug|Win32.Build.0 = Debug|Win32
+		{4E51B8C1-4983-4090-8CAD-543B723DF4C5}.Release|Win32.ActiveCfg = Release|Win32
+		{4E51B8C1-4983-4090-8CAD-543B723DF4C5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
